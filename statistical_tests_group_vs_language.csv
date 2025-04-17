@@ -1,0 +1,66 @@
+Strategy,Group,Language,Count
+[Acceptance that functions as a refusal],UK,HU,1
+[Acceptance that functions as a refusal - Lack of enthusiasm],HU,HU,1
+[Adjuncts to Refusal - Asking for interlocutor’s opinion after refusal],UK,E,2
+[Adjuncts to Refusals - Statement of positive opinion/feeling or agreement],UK,E,1
+[Adjuncts to Refusals - Statement of positive opinion/feeling or agreement],HU,HU,2
+[Ask to discuss it],UK,E,1
+[Attempt to dissuade interlocutor - Challenging the interlocutor],UK,E,1
+[Attempt to dissuade interlocutor - Challenging the interlocutor],UK,HU,3
+[IAttempt to dissuade interlocutor - Criticize the request],HU,E,7
+[IAttempt to dissuade interlocutor - Criticize the request],UK,E,7
+[IAttempt to dissuade interlocutor - Criticize the request],HU,HU,1
+[IAttempt to dissuade interlocutor - Criticize the request],UK,HU,1
+[Attempt to dissuade interlocutor - Criticize the requester],UK,E,1
+[Avoidance - Verbal - Hedging],HU,E,1
+[Avoidance - Verbal - Hedging],UK,E,2
+[Avoidance - Verbal - Hedging],UK,HU,2
+"[Excuse, reason, explanation]",UK,E,12
+"[Excuse, reason, explanation]",UK,HU,8
+"[Excuse, reason, explanation]",HU,E,8
+"[Excuse, reason, explanation]",HU,HU,8
+[Express of dislike],UK,E,4
+[Express of dislike],UK,HU,2
+[Express of dislike],HU,E,1
+[Express of dislike],HU,HU,3
+[Express of disinterest],HU,E,1
+[Express of disinterest],UK,HU,3
+[Express of disinterest],HU,HU,2
+[IAttempt to dissuade interlocutor - Question interlocutor],UK,E,2
+[IAttempt to dissuade interlocutor - Question interlocutor],HU,HU,4
+[IAttempt to dissuade interlocutor - Question interlocutor],UK,HU,2
+[Interjection],HU,E,1
+[Interjection],UK,E,3
+[Interjection],HU,HU,1
+[Interjection],UK,HU,7
+[Nonperformative statement - Negative willingness/ability],UK,E,1
+[Statement of alternative],HU,E,14
+[Statement of alternative],UK,E,22
+[Statement of alternative],HU,HU,13
+[Statement of alternative],UK,HU,10
+[Statement of regret],HU,E,1
+[Statement of regret],UK,E,3
+[Statement of regret],HU,HU,1
+[Statement of regret],UK,HU,2
+[Compromise],UK,E,1
+[Nonperformative statement - Negative direct statement],UK,E,1
+[Pause fillers/[Interjection]],UK,E,1
+[Statement of positive opinion/feeling or agreement],UK,E,3
+[Statement of positive opinion/feeling or agreement],UK,HU,4
+[Adjuncts to Refusals - “Have fun without me”],HU,E,1
+"[Nonperformative statement - No]
+",HU,E,1
+[Wish],HU,E,1
+Hedging (main),HU,E,1
+Promise or possibility of future acceptance,HU,E,1
+[Second conditional acceptance],HU,E,1
+"[Adjuncts to Refusals - “Have fun without me”]
+",HU,HU,1
+"[Attempt to dissuade interlocutor - Request for help, empathy, and assistance by dropping or holding the request]",UK,HU,1
+[Attempt to dissuade interlocutor],UK,HU,1
+[Avoidance - verbal - postponement],UK,HU,1
+[Avoidance (Silence)],UK,HU,1
+[Express that they do not prefer it],UK,HU,1
+[Nonperformative statement],UK,HU,3
+[Pause fillers]/[Interjection],UK,HU,3
+[Sarcasm],HU,HU,2
