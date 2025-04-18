@@ -1,0 +1,15 @@
+Strategy,Group,Language,Formality,Frequency
+[Statement of alternative (in general)],HU,E,friends,3
+[Statement of alternative (in general)],HU,E,peers,2
+[Statement of alternative (in general)],HU,HU,friends,8
+[Statement of alternative (in general)],UK,E,friends,5
+[Statement of alternative (in general)],UK,HU,friends,5
+[Statement of alternative (in general)],UK,HU,peers,2
+[Statement of alternative (specific],HU,E,friends,4
+[Statement of alternative (specific],HU,E,peers,5
+[Statement of alternative (specific],HU,HU,friends,2
+[Statement of alternative (specific],HU,HU,peers,3
+[Statement of alternative (specific],UK,E,friends,8
+[Statement of alternative (specific],UK,E,peers,9
+[Statement of alternative (specific],UK,HU,friends,2
+[Statement of alternative (specific],UK,HU,peers,1
